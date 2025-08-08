@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lucky
-- 👀 I’m interested in ai technology and world politics 
-- 🌱 I’m currently learning C++ 
+- 👀 I’m interested in ai technology, cybersecurity and world politics 
+- 🌱 Founder of Aeson and CodeQuity 
 - 💞️ I’m looking to collaborate on an crypto currency ds code maker 
-- 📫 How to reach me: contact me on insta @lucky_10406
+- 📫 How to reach me: contact me on insta @lucky_.im
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i like galeech ladkiyan 
 

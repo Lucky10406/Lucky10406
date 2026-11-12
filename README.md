@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on an crypto currency or launch my own coin
 - 📫 How to reach me: contact me on insta @lucky_10406
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i hate waste of time type people 
+- ⚡ Fun fact: i hate people who wastes time
 
 <!---
 Lucky10406/Lucky10406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
